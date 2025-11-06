@@ -141,7 +141,6 @@ After training, the script plots:
 
 Example output (for the last 60 samples):
 
-![Predicted vs Actual Example](https://user-images.githubusercontent.com/0000000/example_plot.png)
 
 
 ---<img width="1000" height="600" alt="outcome_distribution" src="https://github.com/user-attachments/assets/c348cadb-1853-452b-af25-61c4526f4c4f" />
