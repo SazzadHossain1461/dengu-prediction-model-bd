@@ -200,6 +200,7 @@ See [LICENSE](LICENSE) for details.
 ## 👨‍💻 Author
 
 **Sazzad Hossain**
+
 📧 sazzadhossain74274@gmail.com
 
 🌐 https://www.linkedin.com/in/sazzadhossain1461/
